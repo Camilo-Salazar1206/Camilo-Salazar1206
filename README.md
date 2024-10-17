@@ -1,26 +1,29 @@
-## <div align="center">Hola, soy Camilo 👋</div>
+## <div align="center"></Hola, soy Camilo 👋></div>
 </br>
 <img src="Añadir un título.png"></img>
 <br/>
 <br/>
-<div align="center" style="font-size: 1.2em; line-height: 1.5; max-width: 600px;">
-   <p>
-     Soy un desarrollador FrontEnd especializado en Angular y TypeScript, enfocado en implementar arquitecturas limpias y escalables. Me destaco en el trabajo en equipo bajo metodología SCRUM, promoviendo una comunicación efectiva. Con dedicación y pasión por el desarrollo de software, busco siempre entregar soluciones de alta calidad y mejorar la experiencia del usuario.
-   </p>
+<div align="center" style="font-size: 1.2em; line-height: 1.5; max-width: 600px; background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 8px; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <p style="margin: 0;">
+        <span style="color: #ff5722; font-weight: bold;">👨‍💻</span> Soy un desarrollador FrontEnd especializado en <strong>Angular</strong> y <strong>TypeScript</strong>, 
+        enfocado en implementar arquitecturas limpias y escalables. 
+        <span style="color: #2196F3; font-weight: bold;">🤝</span> Me destaco en el trabajo en equipo bajo metodología <strong>SCRUM</strong>, promoviendo una comunicación efectiva. 
+        <span style="color: #4CAF50; font-weight: bold;">💻</span> Con dedicación y pasión por el desarrollo de software, busco siempre entregar 
+        soluciones de alta calidad y mejorar la experiencia del usuario. 
+    </p>
 </div>
+
 <br/>
 <br/>
 <div align="center">
-<a href="https://github.com/Niko-Cloud" target="_blank">
+<a href="https://github.com/Camilo-Salazar1206" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/Yuki_Hime_Shira" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/indra.niko.714" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-<a href="https://linkedin.com/in/yuki-hime" target="_blank">
+ <a href="https://www.youtube.com/@camiloTs-u5b" target="_blank">
+ <img alt="Youtuvbe" src="https://img.shields.io/badge/Youtube-D00000?style=for-the-badge&logo=Youtube&logoColor=white">
+ </a>
+
+<a href="https://www.linkedin.com/in/camilo-salazar-35717932a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>  
@@ -74,9 +77,15 @@ style="width: 100%; max-width: 800px; height:120px;"/>
     </tr>
 </table> 
 <br/>  
-<div align="center">
-<img src="illustration-digital-art-minimalism-red-text-simple-109804-wallhere.com.png"/>
-</div>   
+
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+-----
 
 <br />
 
