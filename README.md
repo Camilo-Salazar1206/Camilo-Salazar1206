@@ -1,5 +1,4 @@
-## <div align="center"></Hola, soy Camilo 👋></div>
-</br>
+
 <img src="banner.png"></img>
 <br/>
 <br/>
