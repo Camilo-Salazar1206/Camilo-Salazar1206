@@ -15,7 +15,7 @@
 <br/>
 <br/>
 <div align="center">
-<a href="https://drive.google.com/file/d/1wToZfnffsxcTCVk_W1Y3UMz2R8NR2PGi/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1wToZfnffsxcTCVk_W1Y3UMz2R8NR2PGi/view?usp=sharing" target="blank">
     <img src="https://img.shields.io/badge/cv-%231E77B5.svg?style=for-the-badge&llogoColor=white" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/camilo-salazar-35717932a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
