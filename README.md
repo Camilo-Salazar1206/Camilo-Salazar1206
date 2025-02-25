@@ -15,7 +15,7 @@
 <br/>
 <br/>
 <div align="center">
-<a href="https://drive.google.com/file/d/1x9IRuG3AAwb1J3_lidoCX2gQmnzT-xRE/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1oNRw6UuncMq6rhhxw3_9EqEMIP33APuO/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/cv-%231E77B5.svg?style=for-the-badge&llogoColor=white" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/camilo-salazar-35717932a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
@@ -26,7 +26,7 @@
 
 
 - 📧 Puedes enviarme un correo a través de [aquí](mailto:c4m1loo12@gmail.com)
-- 💻 Actualmente estoy aprendiendo ReactJS Native 
+- 💻 Actualmente estoy aprendiendo React Native 
 - ⚡ Dato curioso:Me gusta muchos los videojuegos especificamente el genero de lucha
 <br/>  
 <div>
