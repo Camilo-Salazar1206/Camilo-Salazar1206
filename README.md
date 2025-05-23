@@ -1,103 +1,69 @@
 
-<img src="banner.png.png"></img>
-<br/>
-<br/>
-<div align="center" style="font-size: 1.2em; line-height: 1.5; max-width: 600px; background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 8px; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-   <p style="margin: 0;">
-  <span style="color: #ff5722; font-weight: bold;">👨‍💻</span> Soy un desarrollador FrontEnd especializado en <strong>Angular</strong> y <strong>TypeScript</strong>, enfocado en implementar arquitecturas limpias y escalables. Actualmente también incursiono en <strong>React</strong> y <strong>Tailwind</strong>, expandiendo mis habilidades para crear interfaces atractivas y funcionales. Además, cuento con conocimientos en <strong>Java</strong> y <strong>Spring</strong>, lo que me permite ampliar mi perfil hacia el desarrollo full stack.  
-  <span style="color: #2196F3; font-weight: bold;">🤝</span> Me destaco en el trabajo en equipo bajo metodología <strong>SCRUM</strong>, promoviendo una comunicación efectiva y colaborativa.  
-  <span style="color: #4CAF50; font-weight: bold;">💻</span> Con dedicación y pasión por el desarrollo de software, busco siempre entregar soluciones de alta calidad y mejorar la experiencia del usuario.
-</p>
 
+<img src="banner.png.png" alt="Banner" style="width: 100%; max-width: 1000px; display: block; margin: 0 auto; border-radius: 8px;" />
+
+
+<div align="center" style="font-size: 1.1em; line-height: 1.6; max-width: 750px; margin: 30px auto; background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 12px; padding: 25px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
+  <p style="margin: 0;">
+    <span style="color: #ff5722; font-weight: bold;">👨‍💻</span> Soy un desarrollador FrontEnd especializado en <strong>Angular</strong> y <strong>TypeScript</strong>, enfocado en implementar arquitecturas limpias y escalables. Actualmente también incursiono en <strong>React</strong> y <strong>Tailwind</strong>.<br/>
+    <span style="color: #2196F3; font-weight: bold;">🤝</span> Me destaco en el trabajo en equipo bajo metodología <strong>SCRUM</strong>, promoviendo una comunicación efectiva y colaborativa.<br/>
+    <span style="color: #4CAF50; font-weight: bold;">💻</span> Con dedicación y pasión por el desarrollo de software, busco siempre entregar soluciones de alta calidad y mejorar la experiencia del usuario.
+  </p>
 </div>
 
-<br/>
-<br/>
-<div align="center">
-<a href="https://drive.google.com/file/d/1ksZTXPpR1k1LdJ9NR3dcSwvfse93bJ2P/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/cv-%231E77B5.svg?style=for-the-badge&llogoColor=white" style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/camilo-salazar-35717932a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>  
-</br>
 
-### 🤝🏻 &nbsp;Conecta conmigo
-
-<p align="center">
-  <a href="https://camiloportfolio.vercel.app/home"><img src="https://img.shields.io/badge/-camilo-portfolio.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"></a>
-   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=c4m1loo12@gmail.com" target="_blank" style="text-decoration: none; color: #000;">
-    📧 Puedes enviarme un correo a través de aquí
+<div align="center" style="margin-bottom: 30px;">
+  <a href="https://drive.google.com/file/d/1ksZTXPpR1k1LdJ9NR3dcSwvfse93bJ2P/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/cv-%231E77B5.svg?style=for-the-badge&logoColor=white" />
   </a>
-</p>
-
-<div style="display: flex; flex-direction: column; gap: 10px; font-family: Arial, sans-serif;">
-
-  <div>💻 Actualmente estoy aprendiendo Jetpack Compose | Kotlin</div>
-  <div>⚡ Dato curioso: Me gustan mucho los videojuegos, específicamente el género hack and slash</div>
-</div>
-<br/>  
-<div>
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs?username=Camilo-Salazar1206&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-alt="Estadísticas de Camilo-Salazar1206"
-style="width: 100%; max-width: 900px; height:150px;"/>
-
+  <a href="https://www.linkedin.com/in/camilo-salazar-35717932a" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
 
-## Tecnologias que domino 🚀:
-<table style="width: 100%; border-collapse: collapse; overflow: hidden; border: 1px solid #ccc;">
-    <tr style="background-color: #ff0000; color: white;">
-        <td style="padding: 15px; text-align: center; border: 1px solid #ccc;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" style="width: 90px; height: auto;" alt="Angular"/><br/>Angular
-        </td>
-        <td style="padding: 15px; text-align: center; border: 1px solid #ccc;">
-            <img src="https://cdn.worldvectorlogo.com/logos/ngrx.svg" style="width: 90px; height: auto;" alt="NgRx"/><br/>NgRx
-        </td>
-        <td style="padding: 15px; text-align: center; border: 1px solid #ccc;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" style="width: 70px; height: auto;" alt="TypeScript"/><br/>TypeScript
-        </td>
-        <td style="padding: 15px; text-align: center; border: 1px solid #ccc;">
-            <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" style="width: 90px; height: auto;" alt="JavaScript"/><br/>JavaScript
-        </td>
-        <td style="padding: 15px; text-align: center; border: 1px solid #ccc;">
-            <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" style="width: 90px; height: auto;" alt="HTML"/><br/>HTML
-        </td>
-        <td style="padding: 15px; text-align: center; border: 1px solid #ccc;">
-            <img src="https://img.icons8.com/color/48/000000/css3.png" style="width: 90px; height: auto;" alt="CSS"/><br/>CSS
-        </td>
-        <td style="padding: 15px; text-align: center; border: 1px solid #ccc;">
-            <img src="https://img.icons8.com/color/48/000000/sass.png" style="width: 90px; height: auto;" alt="Sass"/><br/>Sass
-        </td>
-        <td style="padding: 15px; text-align: center; border: 1px solid #ccc;">
-            <img src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" style="width: 90px; height: auto;" alt="Java"/><br/>Java
-        </td>
-        <td style="padding: 15px; text-align: center; border: 1px solid #ccc;">
-            <img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" style="width: 90px; height: auto;" alt="Spring"/><br/>Spring
-        </td>
-        <td style="padding: 15px; text-align: center; border: 1px solid #ccc;">
-            <img src="https://img.icons8.com/color/48/000000/mongodb.png" style="width: 90px; height: auto;" alt="MongoDB"/><br/>MongoDB
-        </td>
-        <td style="padding: 15px; text-align: center; border: 1px solid #ccc;">
-            <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" style="width: 90px; height: auto;" alt="MySQL"/><br/>MySQL
-        </td>
-    </tr>
+
+<h3 align="center">🤝🏻 &nbsp;Conecta conmigo</h3>
+<div align="center">
+  <a href="https://camiloportfolio.vercel.app/home" target="_blank">
+    <img src="https://img.shields.io/badge/portfolio-%231E77B5.svg?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=c4m1loo12@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/email-%231E77B5.svg?style=for-the-badge&logoColor=white" />
+  </a>
+</div>
+
+
+<div style="text-align: center; margin-top: 20px; font-family: Arial, sans-serif;">
+  <p>💻 Actualmente estoy aprendiendo <strong>Jetpack Compose | Kotlin</strong></p>
+  <p>⚡ Dato curioso: Me gustan mucho los videojuegos, especialmente el género <strong>hack and slash</strong></p>
+</div>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Camilo-Salazar1206&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+       alt="Top Lenguajes"
+       style="width: 100%; max-width: 800px; height: 150px; border-radius: 10px;"/>
+</div>
+
+<h2 align="center">🚀 Tecnologías que domino</h2>
+<table style="width: 100%; max-width: 1100px; margin: 0 auto; border-collapse: collapse; text-align: center;">
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" width="70"><br/>Angular</td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/ngrx.svg" width="70"><br/>NgRx</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="70"><br/>TypeScript</td>
+    <td><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="48"><br/>JavaScript</td>
+    <td><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="48"><br/>HTML</td>
+    <td><img src="https://img.icons8.com/color/48/000000/css3.png" width="48"><br/>CSS</td>
+    <td><img src="https://img.icons8.com/color/48/000000/sass.png" width="48"><br/>Sass</td>
+    <td><img src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" width="48"><br/>Java</td>
+    <td><img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" width="70"><br/>Spring</td>
+    <td><img src="https://img.icons8.com/color/48/000000/mongodb.png" width="48"><br/>MongoDB</td>
+    <td><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="48"><br/>MySQL</td>
+  </tr>
 </table>
 
 
-
-<br/>  
-
-----
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
-
------
-
-<br />
-
-------
+<div align="center" style="margin-top: 40px;">
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+       alt="Snake Animation" style="max-width: 100%; height: auto;"/>
+</div>
