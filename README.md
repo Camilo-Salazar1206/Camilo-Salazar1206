@@ -3,19 +3,18 @@
 <br/>
 <br/>
 <div align="center" style="font-size: 1.2em; line-height: 1.5; max-width: 600px; background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 8px; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <p style="margin: 0;">
-        <span style="color: #ff5722; font-weight: bold;">👨‍💻</span> Soy un desarrollador FrontEnd especializado en <strong>Angular</strong> y <strong>TypeScript</strong>, 
-        enfocado en implementar arquitecturas limpias y escalables. 
-        <span style="color: #2196F3; font-weight: bold;">🤝</span> Me destaco en el trabajo en equipo bajo metodología <strong>SCRUM</strong>, promoviendo una comunicación efectiva. 
-        <span style="color: #4CAF50; font-weight: bold;">💻</span> Con dedicación y pasión por el desarrollo de software, busco siempre entregar 
-        soluciones de alta calidad y mejorar la experiencia del usuario. 
-    </p>
+   <p style="margin: 0;">
+  <span style="color: #ff5722; font-weight: bold;">👨‍💻</span> Soy un desarrollador FrontEnd especializado en <strong>Angular</strong> y <strong>TypeScript</strong>, enfocado en implementar arquitecturas limpias y escalables. Actualmente también incursiono en <strong>React</strong> y <strong>Tailwind</strong>, expandiendo mis habilidades para crear interfaces atractivas y funcionales. Además, cuento con conocimientos en <strong>Java</strong> y <strong>Spring</strong>, lo que me permite ampliar mi perfil hacia el desarrollo full stack.  
+  <span style="color: #2196F3; font-weight: bold;">🤝</span> Me destaco en el trabajo en equipo bajo metodología <strong>SCRUM</strong>, promoviendo una comunicación efectiva y colaborativa.  
+  <span style="color: #4CAF50; font-weight: bold;">💻</span> Con dedicación y pasión por el desarrollo de software, busco siempre entregar soluciones de alta calidad y mejorar la experiencia del usuario.
+</p>
+
 </div>
 
 <br/>
 <br/>
 <div align="center">
-<a href="https://drive.google.com/file/d/1oNRw6UuncMq6rhhxw3_9EqEMIP33APuO/view?usp=drive_link" target="_blank">
+<a href="https://drive.google.com/file/d/1ksZTXPpR1k1LdJ9NR3dcSwvfse93bJ2P/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/cv-%231E77B5.svg?style=for-the-badge&llogoColor=white" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/camilo-salazar-35717932a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
