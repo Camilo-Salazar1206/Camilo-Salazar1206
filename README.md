@@ -11,24 +11,27 @@
   </p>
 </div>
 
-
 <div align="center" style="margin-bottom: 30px;">
+
   <a href="https://drive.google.com/file/d/1ksZTXPpR1k1LdJ9NR3dcSwvfse93bJ2P/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/cv-%231E77B5.svg?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/CV-0d6efd.svg?style=for-the-badge&logoColor=white" />
   </a>
+
+
   <a href="https://www.linkedin.com/in/camilo-salazar-35717932a" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-6f42c1.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
-
 <h3 align="center">🤝🏻 &nbsp;Conecta conmigo</h3>
+
 <div align="center">
   <a href="https://camiloportfolio.vercel.app/home" target="_blank">
-    <img src="https://img.shields.io/badge/portfolio-%231E77B5.svg?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-17c1e8.svg?style=for-the-badge&logoColor=white" />
   </a>
+
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=c4m1loo12@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/email-%231E77B5.svg?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-ffffff.svg?style=for-the-badge&logoColor=black" />
   </a>
 </div>
 
