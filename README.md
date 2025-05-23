@@ -22,13 +22,13 @@
 </a>
 </div>  
 </br>
-
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=c4m1loo12@gmail.com" target="_blank">
-- 📧 Puedes enviarme un correo a través de aquí
-</a>
-- 💻 Actualmente estoy aprendiendo Jetpack Compose | Kotlin
-- ⚡ Dato curioso:Me gusta muchos los videojuegos especificamente el genero hack and slash
+<div style="display: flex; flex-direction: column; gap: 10px; font-family: Arial, sans-serif;">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=c4m1loo12@gmail.com" target="_blank" style="text-decoration: none; color: #000;">
+    📧 Puedes enviarme un correo a través de aquí
+  </a>
+  <div>💻 Actualmente estoy aprendiendo Jetpack Compose | Kotlin</div>
+  <div>⚡ Dato curioso: Me gustan mucho los videojuegos, específicamente el género hack and slash</div>
+</div>
 <br/>  
 <div>
 <img
