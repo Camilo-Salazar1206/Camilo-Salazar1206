@@ -25,8 +25,8 @@
 
 
 - 📧 Puedes enviarme un correo a través de [aquí](mailto:c4m1loo12@gmail.com)
-- 💻 Actualmente estoy aprendiendo React Native 
-- ⚡ Dato curioso:Me gusta muchos los videojuegos especificamente el genero de lucha
+- 💻 Actualmente estoy aprendiendo Jetpack Compose | Kotlin
+- ⚡ Dato curioso:Me gusta muchos los videojuegos especificamente el genero hack and slash
 <br/>  
 <div>
 <img
