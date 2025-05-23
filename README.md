@@ -24,7 +24,9 @@
 </br>
 
 
-- 📧 Puedes enviarme un correo a través de [aquí](mailto:c4m1loo12@gmail.com)
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=c4m1loo12@gmail.com" target="_blank">
+- 📧 Puedes enviarme un correo a través de aquí
+</a>
 - 💻 Actualmente estoy aprendiendo Jetpack Compose | Kotlin
 - ⚡ Dato curioso:Me gusta muchos los videojuegos especificamente el genero hack and slash
 <br/>  
