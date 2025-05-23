@@ -46,7 +46,7 @@ style="width: 100%; max-width: 900px; height:150px;"/>
             <img src="https://cdn.worldvectorlogo.com/logos/ngrx.svg" style="width: 90px; height: auto;" alt="NgRx"/><br/>NgRx
         </td>
         <td style="padding: 15px; text-align: center; border: 1px solid #ccc;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" style="width: 90px; height: auto;" alt="TypeScript"/><br/>TypeScript
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" style="width: 70px; height: auto;" alt="TypeScript"/><br/>TypeScript
         </td>
         <td style="padding: 15px; text-align: center; border: 1px solid #ccc;">
             <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" style="width: 90px; height: auto;" alt="JavaScript"/><br/>JavaScript
