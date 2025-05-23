@@ -40,73 +40,41 @@ style="width: 100%; max-width: 900px; height:150px;"/>
 <table style="width: 100%; border-collapse: collapse; overflow: hidden; border: 1px solid #ccc;">
     <tr style="background-color: #ff0000; color: white;">
         <td style="padding: 15px; text-align: center; border: 1px solid #ccc;">
-            <div style="width: 90px; height: 90px; margin: 0 auto; display: flex; align-items: center; justify-content: center;">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-            </div>
-            Angular
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" style="width: 90px; height: auto;" alt="Angular"/><br/>Angular
         </td>
         <td style="padding: 15px; text-align: center; border: 1px solid #ccc;">
-            <div style="width: 90px; height: 90px; margin: 0 auto; display: flex; align-items: center; justify-content: center;">
-                <img src="https://cdn.worldvectorlogo.com/logos/ngrx.svg" alt="NgRx" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-            </div>
-            NgRx
+            <img src="https://cdn.worldvectorlogo.com/logos/ngrx.svg" style="width: 90px; height: auto;" alt="NgRx"/><br/>NgRx
         </td>
         <td style="padding: 15px; text-align: center; border: 1px solid #ccc;">
-            <div style="width: 90px; height: 90px; margin: 0 auto; display: flex; align-items: center; justify-content: center;">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-            </div>
-            TypeScript
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" style="width: 90px; height: auto;" alt="TypeScript"/><br/>TypeScript
         </td>
         <td style="padding: 15px; text-align: center; border: 1px solid #ccc;">
-            <div style="width: 90px; height: 90px; margin: 0 auto; display: flex; align-items: center; justify-content: center;">
-                <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-            </div>
-            JavaScript
+            <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" style="width: 90px; height: auto;" alt="JavaScript"/><br/>JavaScript
         </td>
         <td style="padding: 15px; text-align: center; border: 1px solid #ccc;">
-            <div style="width: 90px; height: 90px; margin: 0 auto; display: flex; align-items: center; justify-content: center;">
-                <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-            </div>
-            HTML
+            <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" style="width: 90px; height: auto;" alt="HTML"/><br/>HTML
         </td>
         <td style="padding: 15px; text-align: center; border: 1px solid #ccc;">
-            <div style="width: 90px; height: 90px; margin: 0 auto; display: flex; align-items: center; justify-content: center;">
-                <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-            </div>
-            CSS
+            <img src="https://img.icons8.com/color/48/000000/css3.png" style="width: 90px; height: auto;" alt="CSS"/><br/>CSS
         </td>
         <td style="padding: 15px; text-align: center; border: 1px solid #ccc;">
-            <div style="width: 90px; height: 90px; margin: 0 auto; display: flex; align-items: center; justify-content: center;">
-                <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-            </div>
-            Sass
+            <img src="https://img.icons8.com/color/48/000000/sass.png" style="width: 90px; height: auto;" alt="Sass"/><br/>Sass
         </td>
         <td style="padding: 15px; text-align: center; border: 1px solid #ccc;">
-            <div style="width: 90px; height: 90px; margin: 0 auto; display: flex; align-items: center; justify-content: center;">
-                <img src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" alt="Java" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-            </div>
-            Java
+            <img src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" style="width: 90px; height: auto;" alt="Java"/><br/>Java
         </td>
         <td style="padding: 15px; text-align: center; border: 1px solid #ccc;">
-            <div style="width: 90px; height: 90px; margin: 0 auto; display: flex; align-items: center; justify-content: center;">
-                <img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" alt="Spring" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-            </div>
-            Spring
+            <img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" style="width: 90px; height: auto;" alt="Spring"/><br/>Spring
         </td>
         <td style="padding: 15px; text-align: center; border: 1px solid #ccc;">
-            <div style="width: 90px; height: 90px; margin: 0 auto; display: flex; align-items: center; justify-content: center;">
-                <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-            </div>
-            MongoDB
+            <img src="https://img.icons8.com/color/48/000000/mongodb.png" style="width: 90px; height: auto;" alt="MongoDB"/><br/>MongoDB
         </td>
         <td style="padding: 15px; text-align: center; border: 1px solid #ccc;">
-            <div style="width: 90px; height: 90px; margin: 0 auto; display: flex; align-items: center; justify-content: center;">
-                <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-            </div>
-            MySQL
+            <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" style="width: 90px; height: auto;" alt="MySQL"/><br/>MySQL
         </td>
     </tr>
 </table>
+
 
 
 <br/>  
