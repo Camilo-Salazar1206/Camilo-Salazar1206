@@ -48,17 +48,39 @@
 <h2 align="center">🚀 Tecnologías que domino</h2>
 <table style="width: 100%; max-width: 1100px; margin: 0 auto; border-collapse: collapse; text-align: center;">
   <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" width="70"><br/>Angular</td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/ngrx.svg" width="70"><br/>NgRx</td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="70"><br/>TypeScript</td>
-    <td><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="48"><br/>JavaScript</td>
-    <td><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="48"><br/>HTML</td>
-    <td><img src="https://img.icons8.com/color/48/000000/css3.png" width="48"><br/>CSS</td>
-    <td><img src="https://img.icons8.com/color/48/000000/sass.png" width="48"><br/>Sass</td>
-    <td><img src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" width="48"><br/>Java</td>
-    <td><img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" width="70"><br/>Spring</td>
-    <td><img src="https://img.icons8.com/color/48/000000/mongodb.png" width="48"><br/>MongoDB</td>
-    <td><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="48"><br/>MySQL</td>
+    <td style="padding: 15px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" style="width: 60px; height: 60px; object-fit: contain;" /><br/>Angular
+    </td>
+    <td style="padding: 15px;">
+      <img src="https://cdn.worldvectorlogo.com/logos/ngrx.svg" style="width: 60px; height: 60px; object-fit: contain;" /><br/>NgRx
+    </td>
+    <td style="padding: 15px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" style="width: 60px; height: 60px; object-fit: contain;" /><br/>TypeScript
+    </td>
+    <td style="padding: 15px;">
+      <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" style="width: 60px; height: 60px; object-fit: contain;" /><br/>JavaScript
+    </td>
+    <td style="padding: 15px;">
+      <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" style="width: 60px; height: 60px; object-fit: contain;" /><br/>HTML
+    </td>
+    <td style="padding: 15px;">
+      <img src="https://img.icons8.com/color/48/000000/css3.png" style="width: 60px; height: 60px; object-fit: contain;" /><br/>CSS
+    </td>
+    <td style="padding: 15px;">
+      <img src="https://img.icons8.com/color/48/000000/sass.png" style="width: 60px; height: 60px; object-fit: contain;" /><br/>Sass
+    </td>
+    <td style="padding: 15px;">
+      <img src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" style="width: 60px; height: 60px; object-fit: contain;" /><br/>Java
+    </td>
+    <td style="padding: 15px;">
+      <img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" style="width: 60px; height: 60px; object-fit: contain;" /><br/>Spring
+    </td>
+    <td style="padding: 15px;">
+      <img src="https://img.icons8.com/color/48/000000/mongodb.png" style="width: 60px; height: 60px; object-fit: contain;" /><br/>MongoDB
+    </td>
+    <td style="padding: 15px;">
+      <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" style="width: 60px; height: 60px; object-fit: contain;" /><br/>MySQL
+    </td>
   </tr>
 </table>
 
