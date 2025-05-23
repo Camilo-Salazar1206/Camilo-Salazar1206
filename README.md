@@ -60,6 +60,12 @@ style="width: 100%; max-width: 900px; height:150px;"/>
         <td style="padding: 15px; text-align: center; border: 1px solid #ccc;">
             <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass"/> Sass
         </td>
+         <td style="padding: 15px; text-align: center; border: 1px solid #ccc;">
+            <img src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" alt="Java"/> Java
+        </td>
+        <td style="padding: 15px; text-align: center; border: 1px solid #ccc;">
+            <img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" alt="Java"/> Spring
+        </td>
         <td style="padding: 15px; text-align: center; border: 1px solid #ccc;">
             <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/> MongoDB
         </td>
