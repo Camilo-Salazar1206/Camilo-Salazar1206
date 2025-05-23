@@ -22,10 +22,18 @@
 </a>
 </div>  
 </br>
-<div style="display: flex; flex-direction: column; gap: 10px; font-family: Arial, sans-serif;">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=c4m1loo12@gmail.com" target="_blank" style="text-decoration: none; color: #000;">
+
+### 🤝🏻 &nbsp;Conecta conmigo
+
+<p align="center">
+  <a href="https://camiloportfolio.vercel.app/home"><img src="https://img.shields.io/badge/-camilo-portfolio.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"></a>
+   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=c4m1loo12@gmail.com" target="_blank" style="text-decoration: none; color: #000;">
     📧 Puedes enviarme un correo a través de aquí
   </a>
+</p>
+
+<div style="display: flex; flex-direction: column; gap: 10px; font-family: Arial, sans-serif;">
+
   <div>💻 Actualmente estoy aprendiendo Jetpack Compose | Kotlin</div>
   <div>⚡ Dato curioso: Me gustan mucho los videojuegos, específicamente el género hack and slash</div>
 </div>
