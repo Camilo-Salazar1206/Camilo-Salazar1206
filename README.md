@@ -32,7 +32,7 @@
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs?username=Camilo-Salazar1206&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
 alt="Estadísticas de Camilo-Salazar1206"
-style="width: 100%; max-width: 800px; height:120px;"/>
+style="width: 100%; max-width: 900px; height:150px;"/>
 
 </div>
 
