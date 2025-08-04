@@ -70,7 +70,7 @@
       <img src="https://img.icons8.com/color/48/000000/sass.png" style="width: 60px; height: 60px; object-fit: contain;" /><br/>Sass
     </td>
     <td style="padding: 15px;">
-      <img src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" style="width: 60px; height: 60px; object-fit: contain;" /><br/>Java
+      <img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icono-del-lenguaje-de-programacion-java.png" style="width: 60px; height: 60px; object-fit: contain;" /><br/>Java
     </td>
     <td style="padding: 15px;">
       <img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" style="width: 60px; height: 60px; object-fit: contain;" /><br/>Spring
