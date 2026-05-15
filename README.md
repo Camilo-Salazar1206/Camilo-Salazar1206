@@ -33,7 +33,7 @@ habilidades_blandas:
   - Adaptabilidad
   - Resolución de problemas
 
-dato_curioso: "Fanático de los Hack and Slash 🎮"
+dato_curioso: "Fanático de los videojuegos 🎮"
 ```
 
 ---
