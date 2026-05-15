@@ -19,7 +19,7 @@ rol:    Full-Stack Developer
 
 actualmente:
   - 🏢 Trabajando en Tinge Studio
-  - 📱 Aprendiendo Expo & Mobile Development
+  - 📱 Aprendiendo Expo Mobile Development
   - ⚛️  Construyendo proyectos con React y TypeScript
 
 experiencia:
