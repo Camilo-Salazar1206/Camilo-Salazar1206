@@ -1,127 +1,138 @@
+<div align="center">
+
 # 👨‍💻 Camilo Tacue Salazar
 
-### Full-Stack Developer · Popayán, Colombia
+### Full-Stack Developer · Colombia 🇨🇴
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&size=24&pause=1000&color=52B043&width=500&lines=Full-Stack+Developer;React+%7C+Angular+%7C+TypeScript;Node.js+%7C+Supabase+%7C+MongoDB;Siempre+aprendiendo+nuevas+tecnologías" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=52B043&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;React+%7C+Angular+%7C+TypeScript;Node.js+%7C+Supabase+%7C+MongoDB;Siempre+aprendiendo+nuevas+tecnologías" />
 
----
+<br/>
 
-## 🚀 Sobre mí
+<a href="https://my-code-studio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-107C10?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
-💻 Desarrollador Full-Stack con más de **1 año de experiencia** en proyectos reales.
+<a href="mailto:c4m1loo12@gmail.com">
+  <img src="https://img.shields.io/badge/Email-1b1b1b?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-⚡ Especializado en:
+<a href="https://www.linkedin.com/in/camilo-salazar-35717932a" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-1b1b1b?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-* Angular
-* React
-* TypeScript
-* Node.js
-* Bases de datos relacionales y no relacionales
+<a href="https://drive.google.com/file/d/1ksZTXPpR1k1LdJ9NR3dcSwvfse93bJ2P/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/CV-1b1b1b?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
 
-🤝 Experiencia trabajando bajo metodologías ágiles como **Scrum**.
-
-📱 Actualmente aprendiendo **Expo** y desarrollo mobile.
-
-🎮 Fanático de los juegos **Hack and Slash**.
+</div>
 
 ---
 
-# 🛠️ Stack Tecnológico
+# 🚀 Sobre mí
 
-### Frontend
+```yaml id="3lq2v1"
+name: Camilo Tacue Salazar
+role: Full-Stack Developer
 
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,tailwind,sass" />
-</p>
+currently:
+  - Trabajando en Tinge Studio
+  - Aprendiendo Expo & Mobile Development
+  - Construyendo proyectos con React y TypeScript
 
-### Backend
+experience:
+  - Angular
+  - React
+  - Node.js
+  - Supabase
+  - MongoDB
+  - MySQL
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,java,spring" />
-</p>
+soft-skills:
+  - Scrum
+  - Trabajo en equipo
+  - Adaptabilidad
+  - Resolución de problemas
 
-### Bases de Datos
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" />
-</p>
-
-### Herramientas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,figma,vscode" />
-</p>
-
----
-
-# 📌 Actualmente
-
-```bash
-> status        trabajando en Tinge Studio (Full-Stack)
-> aprendiendo   Expo · Desarrollo Mobile
-> disponible    proyectos freelance ✓
-> ubicación     Popayán, Colombia
-> stack actual  React · TypeScript · Supabase · Webflow
+fun-fact:
+  - Fanático de los Hack and Slash 🎮
 ```
 
 ---
 
-# 🌐 Links
+# 🛠️ Tech Stack
 
-<p align="left">
-  <a href="https://my-code-studio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-107C10?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+<div align="center">
 
-  <a href="mailto:c4m1loo12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+### Frontend
 
-  <a href="https://drive.google.com/file/d/1ksZTXPpR1k1LdJ9NR3dcSwvfse93bJ2P/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/CV-111111?style=for-the-badge&logo=readthedocs&logoColor=white" />
-  </a>
+<img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,sass,tailwind" />
 
-  <a href="https://www.linkedin.com/in/camilo-salazar-35717932a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<br/><br/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,java,spring" />
+
+<br/><br/>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" />
+
+<br/><br/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
+
+</div>
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Camilo-Salazar1206&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
+<div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilo-Salazar1206&layout=compact&theme=dark&hide_border=true&bg_color=0d1117"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Camilo-Salazar1206&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"/>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilo-Salazar1206&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"/>
 
-# 🔥 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Camilo-Salazar1206&theme=dark&hide_border=true&background=0D1117" />
-</p>
+</div>
 
 ---
 
-# 🐍 Contributions
+# 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Camilo-Salazar1206/Camilo-Salazar1206/output/snake.svg" alt="Snake animation" />
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Camilo-Salazar1206&theme=github-dark-blue&hide_border=true&background=00000000"/>
+
+</div>
 
 ---
 
-# ⚡ Fun Fact
+# ⚡ Activity Graph
 
-```js
-while(alive) {
-   learn();
-   build();
-   improve();
-}
-```
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Camilo-Salazar1206&theme=github-compact&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+---
+
+# 🐍 Snake Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Camilo-Salazar1206/Camilo-Salazar1206/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💚 "Code. Learn. Build. Repeat."
+
+</div>
